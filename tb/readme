@@ -1,2 +1,2 @@
 Test bench files for the LFSR tutorial
-Includes tb and cfg file for Vivado Waveforms
+Includes tb and wcfg file (Vivado simulator Waveform)
